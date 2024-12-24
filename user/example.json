@@ -1,4 +1,5 @@
-{
+[
+  {
   "config": {
     "user": {
       "phone": "15248101922",
@@ -84,4 +85,5 @@
     ],
     "device": "{brand: realme RMX3142, systemVersion: 12, Platform: Android, isPhysicalDevice: true, incremental: R.175e62f-eccc-ecce}"
   }
-}
+ }
+]
