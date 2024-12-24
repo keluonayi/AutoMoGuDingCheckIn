@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "工学云手机号",
-      "password": "工学云密码"
+      "phone": "15248101922",
+      "password": "Gyh123456"
     },
     "clockIn": {
       "mode": "daily",
       "location": {
-        "address": "四川省 · 成都市 · 高新区 · 在科创十一街附近",
-        "latitude": "30.559922",
-        "longitude": "104.093023",
-        "province": "四川省",
-        "city": "成都市",
-        "area": "高新区"
+        "address": "内蒙古自治区 · 呼和浩特市 · 回民区 · 利丰二手车交易市场",
+        "latitude": "40.845103",
+        "longitude": "111.601902",
+        "province": "内蒙古自治区",
+        "city": "呼和浩特市",
+        "area": "回民区"
       },
       "imageCount": 0,
       "description": [
@@ -51,37 +51,37 @@
     "pushNotifications": [
       {
         "type": "Server",
-        "enabled": true,
+        "enabled": false,
         "sendKey": "your_key"
       },
       {
         "type": "PushPlus",
-        "enabled": true,
+        "enabled": false,
         "token": "your_token"
       },
       {
         "type": "AnPush",
-        "enabled": true,
+        "enabled": false,
         "token": "your_token",
         "channel": "通道ID,多个用英文逗号隔开",
         "to": "根据官方文档获取"
       },
       {
         "type": "WxPusher",
-        "enabled": true,
+        "enabled": false,
         "spt": "your_spt"
       },
       {
         "type": "SMTP",
         "enabled": true,
-        "host": "smtp服务地址",
+        "host": "smtp.qq.com",
         "port": 465,
-        "username": "发件人邮箱",
-        "password": "smtp密码",
-        "from": "发件人名称",
-        "to": "收件人邮箱"
+        "username": "1943766471@qq.com",
+        "password": "gwjebjdwjbegbbcc",
+        "from": "打卡程序",
+        "to": "1312935632@qq.com"
       }
     ],
-    "device": "{brand: TA J20, systemVersion: 17, Platform: Android, isPhysicalDevice: true, incremental: K23V10A}"
+    "device": "{brand: realme RMX3142, systemVersion: 12, Platform: Android, isPhysicalDevice: true, incremental: R.175e62f-eccc-ecce}"
   }
 }
